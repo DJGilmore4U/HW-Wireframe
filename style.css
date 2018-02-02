@@ -46,9 +46,10 @@
     padding: 40px;
     background: #777;
     position: relative;
+    margin-top:-1px; 
     top: 40px;
     right:20px;
-    height: 230px;
+    height: 222px;
     vertical-align: text-top;
   }
   
